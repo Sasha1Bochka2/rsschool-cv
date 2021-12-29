@@ -21,3 +21,7 @@ Ability:
     
 ******
 
+Education: 
+    *Minsk State College of Electronics
+    my specialty - electromechanical technician
+    *FreeCodeCamp course 
