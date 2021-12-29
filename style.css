@@ -2,3 +2,9 @@
     background-color: rgb(216, 143, 54);
 }
 
+.text { 
+    font-size: 1.5rem;
+    color: black; 
+    text-align: justify;
+    
+}
