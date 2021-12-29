@@ -5,6 +5,7 @@
  Telegramm: @Sasha1Kurt 
 
 ******
+#About me
 
 I was both in 2001 in Minsk, Republic Belarus. When I was 16, I started to learn college. 
 Now I have electrical engineering specialty and I started to learn on front/end developer. 
@@ -12,7 +13,7 @@ I work on Integrall. I hard-working. I love learning front/end development.
 
 ******
 
-Ability: 
+Skills: 
     *Arduino Wiring (basic);
     *Git (basic); 
     *HTML; 
@@ -25,7 +26,7 @@ Education:
     *Minsk State College of Electronics
     my specialty - electromechanical technician
     *FreeCodeCamp course 
-    
+    *WebDev YouTube channel 
 
 ******
 Russian - native 
