@@ -12,3 +12,12 @@ I work on Integrall. I hard-working. I love learning front/end development.
 
 ******
 
+Ability: 
+    *Arduino Wiring (basic);
+    *Git (basic); 
+    *HTML; 
+    *CSS (basic);
+    *CSS Flex (basic). 
+    
+******
+
