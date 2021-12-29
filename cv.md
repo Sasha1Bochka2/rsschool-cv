@@ -25,3 +25,8 @@ Education:
     *Minsk State College of Electronics
     my specialty - electromechanical technician
     *FreeCodeCamp course 
+    
+
+******
+Russian - native 
+English - A1 
