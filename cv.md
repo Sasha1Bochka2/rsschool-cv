@@ -8,16 +8,16 @@ Now I have electrical engineering specialty and I started to learn on front/end 
 I work on Integrall. I hard-working. I love learning front/end development.
 ******
 ##Skills: 
-    *Arduino Wiring (basic);
-    *Git (basic); 
-    *HTML; 
-    *CSS (basic);
-    *CSS Flex (basic). 
+1. Arduino Wiring (basic);
+2. Git (basic); 
+3. HTML; 
+4. CSS (basic);
+5. CSS Flex (basic). 
 ******
 ##Education: 
-    *Minsk State College of Electronics (my specialty - electromechanical technician);
-    *FreeCodeCamp course;
-    *WebDev YouTube channel. 
+1. Minsk State College of Electronics (my specialty - electromechanical technician);
+2. FreeCodeCamp course;
+3. WebDev YouTube channel. 
 ******
 Russian - native 
 English - A1 
