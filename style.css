@@ -1,5 +1,5 @@
 .back { 
-    background-color: #8ef773;
+    background-color: #50973f;
 }
 
 img {
@@ -61,6 +61,14 @@ a:hover {
 }
 
 .skills_align { 
+    display: flex;
+    flex-direction: column;
     
+}
+
+.text_1 { 
+    font-size: 1.2rem;
+    color: black; 
+    text-align: center;
 }
 

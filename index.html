@@ -36,27 +36,55 @@
         </div>
         <div>
             <h2 id="Skills">Skills</h2>
-            <ul>
+            <ul class="skills_align">
                 <li class="nav_1"> 
-                    <a href="https://ru.wikipedia.org/wiki/Arduino"><img src="https://mpng.subpng.com/20190302/lh/kisspng-arduino-computer-icons-adafruit-industries-electro-online-store-5c7abe6a31fd12.7005350215515480102048.jpg" alt="Arduino" width="150px"></a>
-                    <p>Arduino</p>
+                    <a href="https://ru.wikipedia.org/wiki/Arduino"><img src="https://i.pinimg.com/originals/bb/f0/9d/bbf09d9c2663e105919cf51cb1d3d125.png" alt="Arduino" width="150px"></a>
+                    <p class="text">Arduino IDE, Wiring</p>
                 </li>
                 <li class="nav_1">
                     <a href="https://git-scm.com/"><img src="http://cdn.onlinewebfonts.com/svg/img_336170.png" alt="Git" width="150px"></a> 
-                    <p>Git (basic)</p>
+                    <p class="text_1">Git (basic command) and GitHub</p>
                 </li>
                 <li class="nav_1">
                     <a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="HTML5" width="150px"></a> 
-                    <p>HTML5</p>
+                    <p class="text">HTML5 (semantic in progress)</p>
                 </li>
                 <li class="nav_1">
                     <a href="https://ru.wikipedia.org/wiki/CSS"><img src="https://storage.needpix.com/rsynced_images/logo-2582747_1280.png" alt="CSS3" width="150px"></a> 
-                    <p>CSS3</p>
+                    <p class="text">CSS3 (in progress)</p>
                 </li>
-
+                <li class="nav_1">
+                    <a href="https://cxem.net/software/sprint_layout.php"><img src="https://agetintopc.com/wp-content/uploads/2021/01/Sprint-Layout-6.0-Free-Download.jpg" alt="PCB" width="150px"></a>
+                    <p class="text">Sprint Layout 6</p>
+                </li>
+                <li class="nav_1">
+                    <a href="https://kompas.ru/"><img src="https://estalej.by/wp-content/uploads/2018/10/hello_html_3edca962.jpg" alt="Kompas" width="150px"></a>
+                    <p class="text">Kompas 3D </p>
+                </li>
             </ul>
         </div>
+            <h2 id="code">Example code</h2>
+            <p class="text">An example code from one of my projects on Arduino</p>
+            <pre>
+            void setup() {
+                // initialize serial communication at 9600 bits per second:
+                Serial.begin(9600);
+            }
+                  
+                // the loop routine runs over and over again forever:
+            void loop() {
+                // read the input on analog pin 0:
+                int sensorValue = analogRead(A0);
+                // print out the value you read:
+                Serial.println(sensorValue);
+                delay(1);        // delay in between reads for stability
+            }
+            </pre>
+        <div>
+
         </div>
+        </div>
+
     </main>
     <hr> 
     <footer>
