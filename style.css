@@ -77,8 +77,10 @@ a:hover {
     display: flex;
     flex-flow: row nowrap;
     justify-content: space-between;
+    align-items: center;
     color:rgb(252, 236, 216);
     margin: -8px; 
+    margin-bottom: -20px;
     padding: 10px;
 }
 
@@ -93,3 +95,9 @@ a:hover {
     text-decoration: rgb(252, 236, 216);
 }
 
+.github {
+    display: inline;
+    border-radius: 50%;
+    width: 125px;
+
+}
