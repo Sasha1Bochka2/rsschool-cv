@@ -72,3 +72,24 @@ a:hover {
     text-align: center;
 }
 
+.footer {
+    background-color: black;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    color:rgb(252, 236, 216);
+    margin: -8px; 
+    padding: 10px;
+}
+
+.link {
+    color:rgb(252, 236, 216);
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+.link:hover {
+    font-style: italic;
+    text-decoration: rgb(252, 236, 216);
+}
+
