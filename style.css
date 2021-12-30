@@ -22,6 +22,7 @@ h2 {
 .flex_nav {
     display: flex;
     justify-content: center;
+    background-color: black;
 }
 
 .nav_1 {
@@ -99,5 +100,13 @@ a:hover {
     display: inline;
     border-radius: 50%;
     width: 125px;
-
+    background-color: white;
 }
+
+.github_1 {
+    display: inline;
+    border-radius: 10%;
+    width: 125px;
+    background-color: white;
+}
+
