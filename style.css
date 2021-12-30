@@ -2,7 +2,9 @@
     background-color: rgb(221, 194, 161);
     
 }
-
+img {
+    border-radius: 20%;
+}
 .text { 
     font-size: 1.5rem;
     color: black; 
