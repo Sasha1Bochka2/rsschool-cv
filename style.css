@@ -1,5 +1,5 @@
 .back { 
-    background-color: rgb(142, 247, 115);
+    background-color: #8ef773;
 }
 
 img {
@@ -14,7 +14,7 @@ h2 {
 }
 
 .text { 
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     color: black; 
     text-align: justify;
 }
@@ -60,4 +60,7 @@ a:hover {
     padding: 35px;
 }
 
+.skills_align { 
+    
+}
 
