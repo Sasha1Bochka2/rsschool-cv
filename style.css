@@ -1,10 +1,118 @@
 .back { 
-    background-color: rgb(216, 143, 54);
+    background-color: #50973f;
+}
+
+img {
+    border-radius: 20%;
+    box-shadow: 5px 5px 0 0 rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    position: relative;
+    left: -30px;
+    text-align: center;
 }
 
 .text { 
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: black; 
     text-align: justify;
+}
+
+.flex_nav {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    margin: -8px; 
+    margin-bottom: -8px;
+    padding: 10px;
+}
+
+.nav_1 {
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.nav {
+    display: inline-block;
+    position: relative;
+    left: -30px; 
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+a:hover {
+    font-style: italic;
+    text-decoration: underline black;
+}
+
+.basic_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: -7px; 
+    margin-bottom: -7px;
+    width: 70vh;
+    background-color: rgb(252, 236, 216);
+    padding: 35px;
+}
+
+.skills_align { 
+    display: flex;
+    flex-direction: column;
     
+}
+
+.text_1 { 
+    font-size: 1.2rem;
+    color: black; 
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-between;
+    align-items: center;
+    color:rgb(252, 236, 216);
+    margin: -8px; 
+    margin-bottom: -20px;
+    padding: 10px;
+}
+
+.link {
+    color:rgb(252, 236, 216);
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+.link:hover {
+    font-style: italic;
+    text-decoration: rgb(252, 236, 216);
+}
+
+.github {
+    display: inline;
+    border-radius: 50%;
+    width: 125px;
+    background-color: white;
+}
+
+.github_1 {
+    display: inline;
+    border-radius: 10%;
+    width: 125px;
+    background-color: white;
+}
+
+.year {
+    text-align: right;
 }
